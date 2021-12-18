@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppNerea</string>
+    <string name="guardar">Guardar</string>
+    <string name="EscribeTarea">Escribe tarea</string>
+</resources>
